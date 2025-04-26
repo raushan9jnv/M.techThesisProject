@@ -1,9 +1,11 @@
 ## How to prepare data: Sources i have followed to learn
 
 https://wandb.ai/capecape/alpaca_ft/reports/How-to-Fine-Tune-an-LLM-Part-1-Preparing-a-Dataset-for-Instruction-Tuning--Vmlldzo1NTcxNzE2
+
 https://crfm.stanford.edu/2023/03/13/alpaca.html
 
 - reddit
+
 https://www.reddit.com/r/LocalLLaMA/comments/1ai2gby/what_guidance_is_out_there_to_help_us_create_our/?rdt=57045
 
 ## tool for generatung que ans from data
