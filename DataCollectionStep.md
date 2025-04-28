@@ -18,3 +18,14 @@ https://scale.com/
 
 ## tool for generatung que ans from data
 https://github.com/e-p-armstrong/augmentoolkit
+
+## important 
+https://docs.unsloth.ai/basics/datasets-guide
+
+![image](https://github.com/user-attachments/assets/6042b137-5e68-43ad-acaf-967cd3bb3946)
+
+### multiple datasets combine instead multiple fine tuning
+
+![image](https://github.com/user-attachments/assets/640a6e8c-1487-4e6c-8671-9445a7c4074d)
+
+
